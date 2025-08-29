@@ -1,10 +1,10 @@
-# FinGenius App
+# FinInvest App
 
 [Website](https://fingenius.app) | [Twitter](https://x.com/FinInvestAPP)
 
 ## Open-Source AI-Powered Personalized Finance Assistant
 
-FinGenius is an **AI-powered personal finance assistant** that helps users **analyze, optimize, and automate** their financial activities. Using **machine learning** and **real-time data analytics**, FinGenius offers:
+FinInvest is an **AI-powered personal finance assistant** that helps users **analyze, optimize, and automate** their financial activities. Using **machine learning** and **real-time data analytics**, FinInvest offers:
 - **Personalized financial insights**
 - **Smart investment strategies**
 - **Risk management solutions**
@@ -59,7 +59,7 @@ python main.py
 ---
 
 ## Contributing
-FinGenius is an **open-source** project, and contributions are welcome! You can:
+FinInvest is an **open-source** project, and contributions are welcome! You can:
 - Report issues
 - Submit pull requests
 - Suggest improvements
