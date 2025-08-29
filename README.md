@@ -1,6 +1,6 @@
 # FinGenius App
 
-[Website](https://fingenius.app) | [Twitter](https://x.com/FinGeniusAPP)
+[Website](https://fingenius.app) | [Twitter](https://x.com/FinInvestAPP)
 
 ## Open-Source AI-Powered Personalized Finance Assistant
 
@@ -20,8 +20,8 @@ FinGenius is an **AI-powered personal finance assistant** that helps users **ana
 ### Option 2: Python Script
 1. Clone the repository:
    ```sh
-   git clone https://github.com/FinGeniusAPP/FinGeniusAPP.git
-   cd FinGeniusAPP
+   git clone https://github.com/FinInvestAPP/FinInvestAPP.git
+   cd FinInvestAPP
    ```
 2. Install required dependencies:
    ```sh
@@ -64,7 +64,7 @@ FinGenius is an **open-source** project, and contributions are welcome! You can:
 - Submit pull requests
 - Suggest improvements
 
-For more details, check the [GitHub repository](https://github.com/FinGeniusAPP/FinGeniusAPP).
+For more details, check the [GitHub repository](https://github.com/FinInvestAPP/FinInvestAPP).
 
 ---
 
